@@ -6,4 +6,4 @@
 
 - 🌱 A traffic engineer since 2015 and working on traffic science.
 - 💬 Mainly focus on the nature of [traffic waves](https://trafficwaves.github.io)
-- 📫 How to reach me: 
+- 📫 How to reach me: [traffic.wave.science@gmail.com](traffic.wave.science@gmail.com)
