@@ -5,6 +5,6 @@
 👋 I'm **Junyi Ji**, PhD student at [Vanderbilt University](https://www.vanderbilt.edu/) in United States.
 
 - 🌱 A traffic engineer since 2015 and working on traffic science.
-- 💬 Mainly focus on the nature of [traffic waves](https://trafficwaves.github.io).
-- 🚀 Aim to accelerate traffic research by **field practice** via applied computational methods.
-- 📫 How to reach me: [traffic.wave.science@gmail.com](traffic.wave.science@gmail.com)
+- 💬 Mainly focus on the nature of traffic waves.
+- 🚀 Aim to accelerate traffic research by **field practice and datasets** via applied computational methods.
+- 📫 How to reach me: [junyi.ji@vanderbilt.edu](junyi.ji@vanderbilt.edu)
